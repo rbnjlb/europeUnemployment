@@ -1,0 +1,812 @@
+[
+    {
+        "lastupdated": "2025-12-19",
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "sourceid": "2",
+        "total": 65
+    },
+    [
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2024",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 68551653
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2023",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 68372286
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2022",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 68184457
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2021",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 67842811
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2020",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 67601110
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2019",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 67382061
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2018",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 67158348
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2017",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 66918020
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2016",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 66724104
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2015",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 66548272
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2014",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 66312067
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2013",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 65997932
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2012",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 65657659
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2011",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 65340830
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2010",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 65026211
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2009",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 64706436
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2008",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 64375116
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2007",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 64016890
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2006",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 63622342
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2005",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 63180854
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2004",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 62707588
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2003",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 62249855
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2002",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 61812142
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2001",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 61364377
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "2000",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 60918661
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1999",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 60501986
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1998",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 60190684
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1997",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 59968066
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1996",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 59754504
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1995",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 59541294
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1994",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 59324863
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1993",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 59103094
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1992",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 58846584
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1991",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 58554242
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1990",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 58261012
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1989",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 57943062
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1988",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 57598186
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1987",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 57266167
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1986",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 56956002
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1985",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 56665619
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1984",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 56383085
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1983",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 56108330
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1982",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 55806789
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1981",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 55603353
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1980",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 55274184
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1979",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 54979851
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1978",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 54734030
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1977",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 54486467
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1976",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 54232383
+        },
+        {
+            "country": {
+                "id": "FR",
+                "value": "France"
+            },
+            "countryiso3code": "FRA",
+            "date": "1975",
+            "decimal": 0,
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "obs_status": "",
+            "unit": "",
+            "value": 54002853
+        }
+    ]
+]
